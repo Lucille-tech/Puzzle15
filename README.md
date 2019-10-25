@@ -1,4 +1,4 @@
-# Puzzle15
+# 15Puzzle
  15 Puzzle made for Desk-top
  Use the arrows to move the tiles
  
