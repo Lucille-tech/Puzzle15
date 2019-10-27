@@ -1,9 +1,9 @@
 # 15 Puzzle
 ![Image of 15 Puzzle](https://github.com/Lucille-tech/Puzzle15/blob/master/15-Puzzle.png)
 
- 15 Puzzle made for Desk-top
+ 15 Puzzle made for Desk-top :computer:
  
- Use the arrows to move the tiles
+ Use the arrows to move the tiles :arrow_down: :arrow_up: :arrow_right: :arrow_left:
  
  How to Solve the 15 Puzzle 
  
@@ -19,6 +19,6 @@
  
  Step 6: Move Tiles 7 and 8 Into Final Positions.
  
- Let's see if you can solve the puzzle! 
+ Let's see if you can solve the puzzle! :tada:
  
  
