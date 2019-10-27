@@ -1,4 +1,6 @@
 # 15 Puzzle
+![Image of 15 Puzzle](https://github.com/Lucille-tech/Puzzle15/blob/master/15-Puzzle.png)
+
  15 Puzzle made for Desk-top
  
  Use the arrows to move the tiles
